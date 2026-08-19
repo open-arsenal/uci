@@ -7,7 +7,7 @@ Welcome to the unclassified repository for the Universal Command and Control (C2
 The UCI standard provides a common message definition for performing mission operations and enables C2 coordination across sensors, vehicles, data products, and software components.
 
 > [!NOTE]
-> The United States Air Force is experimenting with releasing unclassified standards on <https://gitlab.com/modular-af/> and <https://github.com/modular-af/>.  We welcome [constructive feedback](mailto:aflcmc.ase.architectures@us.af.mil) on how we can improve this approach.  These repositories currently focus exclusively on the technical standard and documentation. Example "hello world" software is forthcoming.
+> The United States Air Force is experimenting with releasing unclassified standards on <https://gitlab.com/open-arsenal/> and <https://github.com/open-arsenal/>.  We welcome [constructive feedback](mailto:aflcmc.ase.architectures@us.af.mil) on how we can improve this approach.  These repositories currently focus exclusively on the technical standard and documentation. Example "hello world" software is forthcoming.
 
 ## 🚀 Overview
 
@@ -36,9 +36,9 @@ UCI is a "living standard," evolving to meet mission needs while ensuring backwa
 
 ## 📦 What's Included in the Standard
 
-This repository includes all documents comprising the UCI Version 2.5.  The heart of the standard is the UCI message schema located at [UCI/OAC-STD-UCI_V2.5/UCI_MessageDefinitions_v2_5_0.xsd](https://github.com/modular-af/UCI/blob/main/OAC-STD-UCI_V2.5/UCI_MessageDefinitions_v2_5_0.xsd).
+This repository includes all documents comprising the UCI Version 2.5.  The heart of the standard is the UCI message schema located at [UCI/OAC-STD-UCI_V2.5/UCI_MessageDefinitions_v2_5_0.xsd](https://github.com/open-arsenal/UCI/blob/main/OAC-STD-UCI_V2.5/UCI_MessageDefinitions_v2_5_0.xsd).
 
 ## 🧭 Where to Find More Information
 
 - **Official Governance**: Visit the Open Architecture Collaborative Working Group (OACWG) for updates and governance details. Contact via <aflcmc.ase.architectures@us.af.mil>.
-- **Related Standards**: The UCI standard is leveraged by a variety of open architectures including [Open Mission Systems (OMS)](https://github.com/modular-af/OMS).
+- **Related Standards**: The UCI standard is leveraged by a variety of open architectures including [Open Mission Systems (OMS)](https://github.com/open-arsenal/OMS).
